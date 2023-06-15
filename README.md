@@ -1,4 +1,5 @@
-##E-commerce made with Vite.js and Tailwind
+## E-commerce made with Vite.js and Tailwind
+
 Este E-commerce fue realizado con el framework Vite a modo de ejercicio para demostrar mi dominio sobre este framework de JavaScript, tambien utilice Tailwind para organizar el frontend, gracias por pasar a verlo todo feedback es bienvenido.
 
 This E-commerce was built using the Vite.js framework as an exercise to showcase my proficiency with this JavaScript framework. I also utilized Tailwind to structure the frontend. Thank you for taking the time to check it out, and any feedback is welcome.
