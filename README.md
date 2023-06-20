@@ -4,6 +4,8 @@ Este E-commerce fue realizado con el framework Vite a modo de ejercicio para dem
 
 This E-commerce was built using the Vite.js framework as an exercise to showcase my proficiency with this JavaScript framework. I also utilized Tailwind to structure the frontend. Thank you for taking the time to check it out, and any feedback is welcome.
 
+live demo here: https://app.netlify.com/sites/merry-empanada-d703b6/deploys/64913cf6c41d51742d59ba24
+
 # Vite ⚡
 
 > Next Generation Frontend Tooling
